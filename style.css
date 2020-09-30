@@ -102,11 +102,8 @@ p {
 }
 
 .attribution {
-    background-color: hsl(300, 24%, 96%);
     color: hsl(300, 43%, 22%);
     text-align: center;
-    padding: 1.5rem 0;
-    margin-top: 3rem;
 }
 
 .attribution a {
@@ -205,6 +202,5 @@ p {
 
     .attribution {
         margin-top: 6rem;
-        padding: 4rem 0;
     }
 }
