@@ -7,9 +7,12 @@
 body {
     font-family: 'Spartan', sans-serif;
     font-size: 15px;
-    width: 90%;
-    margin: 5rem auto;
     color: hsl(300, 43%, 22%);
+}
+
+.container {
+    width: 90%;
+    margin: 5rem auto 0;
 }
 
 p {
@@ -101,6 +104,7 @@ p {
     color: #fff;
     text-align: center;
     padding: 1.5rem 0;
+    margin-top: 3rem;
 }
 
 .attribution a {
