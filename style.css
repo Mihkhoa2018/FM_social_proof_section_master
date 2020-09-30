@@ -8,6 +8,7 @@ body {
     font-family: 'Spartan', sans-serif;
     font-size: 15px;
     color: hsl(300, 43%, 22%);
+    background-image: url(images/bg-pattern-top-mobile.svg);
 }
 
 .container {
